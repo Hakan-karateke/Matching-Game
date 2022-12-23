@@ -1,0 +1,18 @@
+C:\Users\CASPER\source\repos\matching game\matching game\bin\Debug\net6.0-windows\matching game.exe
+C:\Users\CASPER\source\repos\matching game\matching game\bin\Debug\net6.0-windows\matching game.deps.json
+C:\Users\CASPER\source\repos\matching game\matching game\bin\Debug\net6.0-windows\matching game.runtimeconfig.json
+C:\Users\CASPER\source\repos\matching game\matching game\bin\Debug\net6.0-windows\matching game.dll
+C:\Users\CASPER\source\repos\matching game\matching game\bin\Debug\net6.0-windows\matching game.pdb
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching_game.Form1.resources
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.dll
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\refint\matching game.dll
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.pdb
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching game.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\ref\matching game.dll
+C:\Users\CASPER\source\repos\matching game\matching game\obj\Debug\net6.0-windows\matching_game.Form2.resources
